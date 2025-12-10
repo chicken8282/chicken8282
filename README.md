@@ -42,14 +42,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Readme Stats - 기본 통계 카드 -->
   <a href="https://github.com/chicken8282">
     <img src="https://github-readme-stats.vercel.app/api?username=chicken8282&show_icons=true&theme=transparent" alt="GitHub stats card" />
   </a>
 </p>
 
 <p align="center">
-  <!-- GitHub Readme Stats - 사용 언어 카드 -->
   <a href="https://github.com/chicken8282">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicken8282&layout=compact&theme=transparent" alt="Top languages card" />
   </a>
