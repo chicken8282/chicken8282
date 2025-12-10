@@ -137,7 +137,7 @@
 
 ## 📫 Contact
 
-- 📧 Email : `your_email@example.com`
+- 📧 Email : `dlehdgnl1116@gmail.com`
 - 💬 알고리즘, SSAFY, 웹 개발 이야기 언제든 환영합니다.
 
 <br/>
