@@ -43,13 +43,13 @@
 
 <p align="center">
   <a href="https://github.com/chicken8282">
-    <img src="https://github-readme-stats.vercel.app/api?username=chicken8282&show_icons=true&theme=transparent" alt="GitHub stats card" />
+    <img src="https://github-readme-stats-git-master-orgs-chicken8282-projects.vercel.app/api?username=chicken8282&show_icons=true&theme=transparent" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/chicken8282">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicken8282&layout=compact&theme=transparent" alt="Top languages card" />
+    <img src="https://stats.dooboo.io/api?username=chicken8282&show_icons=true&theme=transparent" />
   </a>
 </p>
 
