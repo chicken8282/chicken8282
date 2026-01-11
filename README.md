@@ -1,5 +1,5 @@
 <!-- 상단 캡슐 배너 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20chicken8282%20👋&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20chicken8282%20👋&fontSize=40&animation=fadeIn) 
 
 <!-- 방문자 수 뱃지 -->
 <p align="right">
