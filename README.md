@@ -1,6 +1,6 @@
 <!-- 상단 캡슐 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20chicken8282%20👋&fontSize=40&animation=fadeIn) 
-
+ 
 <!-- 방문자 수 뱃지 -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=chicken8282&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
